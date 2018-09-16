@@ -10,12 +10,15 @@ import UIKit
 import CoreData
 
 class ViewController: UIViewController {
-    var mi : Bool = false
+    var isIt : Bool = false
     
    
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        isIt = isFirstLaunch()
+        print("Is it first Lauch of the app ? : \(isIt)")
         
         guard let appDelegate = UIApplication.shared.delegate as? AppDelegate
             else { return }
@@ -37,7 +40,7 @@ class ViewController: UIViewController {
         let documentsDirectory = paths[0]
         print(documentsDirectory)
         
-    mi = isFirstLaunch()
+    
         
         
     }
