@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14135" systemVersion="17F77" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BirEnt" representedClassName="BirEnt" syncable="YES" codeGenerationType="class">
+        <attribute name="cAnahtarKelime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cmana3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana11" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana12" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana13" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana14" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana15" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana16" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana17" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana18" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana19" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cMana20" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="BirEnt" positionX="-63" positionY="-18" width="128" height="360"/>
+    </elements>
 </model>
